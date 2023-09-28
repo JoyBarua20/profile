@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joy Barua</h1>
 <h3 align="center">HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Firebase Authentication, MongoDB and Express.js</h3>
 
-<img align="right"alt="coding" wight="400"scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joybarua55&label=Profile%20views&color=0e75b6&style=flat" alt="joybarua55" /> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Firebase Authentication, MongoDB and Express.js**
